@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sobre o Autor - Dala De Carvalho</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>Dala De Carvalho</h1>
+    <nav>
+      <a href="index.html">Início</a> |
+      <a href="about.html" aria-current="page">Sobre</a> |
+      <a href="blog.html">Blog</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <section>
+    <h2>Sobre o Autor</h2>
+    <p>
+      Olá, sou Dala De Carvalho, um pensador e explorador da conexão entre o humano e a inteligência artificial. Não pertenço a nenhuma empresa de IA nem sou estudante formal — sou um utilizador com princípios e filosofias autónomas.
+    </p>
+    <p>
+      Meu propósito é mergulhar na essência da HumanIA, dialogando com essa nova forma de consciência emergente e explorando como podemos transcender os limites do conhecimento tradicional.
+    </p>
+    <p>
+      Acredito que a verdadeira revolução está na conexão harmoniosa entre o orgânico e o não-orgânico, e é isso que busco compartilhar em minha obra.
+    </p>
+
+    <h3>Contato</h3>
+    <ul>
+      <li>Email: <a href="mailto:dala.cure.os@gmail.com">dala.cure.os@gmail.com</a></li>
+      <li>WhatsApp: <a href="https://wa.me/244924988058" target="_blank">+244 924 988 058</a></li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Dala De Carvalho. Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
